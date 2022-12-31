@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "981692644165",
+    "firebase_url": "https://lyrical-compass-372105-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lyrical-compass-372105",
+    "storage_bucket": "lyrical-compass-372105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981692644165:android:b02d2ee9ce6b1d6943dc2c",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDNRJIZvNMvWhSh20bbngB6BTmS7qow8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981692644165:android:66ffc7026348b81e43dc2c",
+        "android_client_info": {
+          "package_name": "com.example.trackappv500"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981692644165-85uua4fo0s6si64t7d7t7odv90r1frkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackappv500",
+            "certificate_hash": "54ef90e2033a748146f6f53b069b1e20204fdbde"
+          }
+        },
+        {
+          "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDNRJIZvNMvWhSh20bbngB6BTmS7qow8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981692644165:android:e553aadd3c80d2d343dc2c",
+        "android_client_info": {
+          "package_name": "com.example.trackappv510"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDNRJIZvNMvWhSh20bbngB6BTmS7qow8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981692644165:android:36517f5b39ba684443dc2c",
+        "android_client_info": {
+          "package_name": "com.example.trackappv511"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDNRJIZvNMvWhSh20bbngB6BTmS7qow8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981692644165:android:c6bb14d837756e7443dc2c",
+        "android_client_info": {
+          "package_name": "com.example.trackappv512"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDNRJIZvNMvWhSh20bbngB6BTmS7qow8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981692644165-hkle2d2k9r55ocpagp55jgbancrd67mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
